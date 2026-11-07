@@ -1,4 +1,4 @@
-# Halo, saya Gilang Fajar - Software Engineer dari Indonesia👋
+# Halo, saya Gilang Fajar
 
 ## 🚀 Proyek Unggulan
 **[KalcerPlanner](https://github.com/gilfarmdn/kalcerplanner)**: platform perencanaan wisata budaya, dengan fitur verifikasi data pelaku budaya oleh kurator. Dibangun dengan Next.js, Prisma, PostgreSQL, dan Docker.
